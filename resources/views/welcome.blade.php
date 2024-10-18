@@ -646,8 +646,8 @@ License: For each use you must have a valid license purchased only from above li
 																				<!--begin:Menu item-->
 																				<div class="menu-item p-0 m-0">
 																					<!--begin:Menu link-->
-																					<a href="pages/blog/home.html" class="menu-link">
-																						<span class="menu-title">Blog Home</span>
+																					<a href="pages/blog/dashboard.html" class="menu-link">
+																						<span class="menu-title">Blog Dashboard</span>
 																					</a>
 																					<!--end:Menu link-->
 																				</div>
